@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-websocket new change dev fae
-=======
 websocket new change dev feature
->>>>>>> feature1
